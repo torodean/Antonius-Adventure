@@ -1,0 +1,63 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}\textbf {ADVENTURERS}}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}\textbf {ATTRIBUTES}}{2}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}\textbf {STRENGTH}}{2}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}\textbf {STAMINA}}{2}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}\textbf {AGILITY}}{2}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}\textbf {INTELLIGENCE}}{2}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}\textbf {WISDOM}}{2}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}\textbf {EQUIPMENT}}{2}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}\textbf {WEAPON}}{2}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}\textbf {ARMOR}}{3}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}\textbf {STEED}}{3}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}\textbf {SPECIAL}}{4}{subsection.2.2.4}%
+\contentsline {chapter}{\numberline {3}\textbf {RESOURCES}}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}\textbf {FOOD}}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}\textbf {LUMBER}}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}\textbf {COAL}}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}\textbf {COPPER}}{5}{section.3.4}%
+\contentsline {section}{\numberline {3.5}\textbf {SILVER}}{5}{section.3.5}%
+\contentsline {section}{\numberline {3.6}\textbf {GOLD}}{5}{section.3.6}%
+\contentsline {section}{\numberline {3.7}\textbf {PLATINUM}}{5}{section.3.7}%
+\contentsline {section}{\numberline {3.8}\textbf {IRON}}{5}{section.3.8}%
+\contentsline {section}{\numberline {3.9}\textbf {LEATHER}}{5}{section.3.9}%
+\contentsline {section}{\numberline {3.10}\textbf {CLOTH}}{5}{section.3.10}%
+\contentsline {chapter}{\numberline {4}\textbf {ITEMS}}{6}{chapter.4}%
+\contentsline {chapter}{\numberline {5}\textbf {GARRISON}}{7}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Base/Starting \textbf {GARRISON}}{7}{section.5.1}%
+\contentsline {section}{\numberline {5.2}\textbf {BUILDINGS}}{7}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}\textbf {MISSION HALL}}{7}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}\textbf {LUMBER MILL}}{7}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}\textbf {STOREHOUSE}}{7}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}\textbf {MINE}}{7}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}\textbf {FARM}}{8}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}\textbf {GARDEN}}{8}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}\textbf {ARCANE TOWER}}{8}{subsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.2.8}\textbf {BLACKSMITH}}{8}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}\textbf {TRAINING GROUNDS}}{8}{subsection.5.2.9}%
+\contentsline {subsection}{\numberline {5.2.10}\textbf {TAVERN}}{8}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}\textbf {TEMPLE}}{8}{subsection.5.2.11}%
+\contentsline {subsection}{\numberline {5.2.12}\textbf {HUNTING LODGE}}{8}{subsection.5.2.12}%
+\contentsline {subsection}{\numberline {5.2.13}\textbf {WORKSHOP}}{8}{subsection.5.2.13}%
+\contentsline {subsection}{\numberline {5.2.14}\textbf {STABLES}}{8}{subsection.5.2.14}%
+\contentsline {subsection}{\numberline {5.2.15}\textbf {DOCKS}}{8}{subsection.5.2.15}%
+\contentsline {chapter}{\numberline {6}\textbf {MISSIONS}}{9}{chapter.6}%
+\contentsline {section}{\numberline {6.1}\textbf {BATTLE MISSIONS}}{9}{section.6.1}%
+\contentsline {section}{\numberline {6.2}\textbf {RESCUE MISSIONS}}{9}{section.6.2}%
+\contentsline {section}{\numberline {6.3}\textbf {ESCORT MISSIONS}}{9}{section.6.3}%
+\contentsline {section}{\numberline {6.4}\textbf {HUNTING MISSIONS}}{9}{section.6.4}%
+\contentsline {section}{\numberline {6.5}\textbf {EXPLORATION MISSIONS}}{9}{section.6.5}%
+\contentsline {section}{\numberline {6.6}\textbf {MINING MISSIONS}}{9}{section.6.6}%
+\contentsline {section}{\numberline {6.7}\textbf {SURVIVAL MISSIONS}}{9}{section.6.7}%
+\contentsline {section}{\numberline {6.8}\textbf {STEALTH MISSIONS}}{9}{section.6.8}%
+\contentsline {section}{\numberline {6.9}\textbf {DELIVERY MISSIONS}}{9}{section.6.9}%
+\contentsline {section}{\numberline {6.10}\textbf {SABOTAGE MISSIONS}}{9}{section.6.10}%
+\contentsline {section}{\numberline {6.11}\textbf {TRACKING MISSIONS}}{9}{section.6.11}%
+\contentsline {section}{\numberline {6.12}\textbf {RESEARCH MISSIONS}}{9}{section.6.12}%
+\contentsline {section}{\numberline {6.13}\textbf {STRATEGY MISSIONS}}{9}{section.6.13}%
+\contentsline {section}{\numberline {6.14}\textbf {TECHNICAL MISSIONS}}{9}{section.6.14}%
+\contentsline {section}{\numberline {6.15}\textbf {DIPLOMATIC MISSIONS}}{9}{section.6.15}%
+\contentsline {section}{\numberline {6.16}\textbf {SPIRITUAL MISSIONS}}{9}{section.6.16}%
+\contentsline {section}{\numberline {6.17}\textbf {SUPPORT MISSIONS}}{9}{section.6.17}%
+\contentsline {chapter}{\numberline {7}resources}{10}{chapter.7}%
+\contentsline {chapter}{References}{10}{chapter*.5}%
